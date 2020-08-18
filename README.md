@@ -1,2 +1,8 @@
-#Referente ao Bootcamp backend dev carrefour na Digital Innovation One
-este repositório terá todos os arquivos que utilizarei durante o aprendizado!
+### Repositório sobre os bootcamps realizados na plataforma da Digital Innovation One
+
+
+<ul>
+  <li>Backend Developer Carrefour </li>
+  <li>Desenvolvimento NodeJS</li>
+</ul>
+
